@@ -14,6 +14,7 @@
 
 <script setup>
   const { product } = defineProps(['product'])
+  console.log("Hello world.")
 </script>
 
 <style scoped>
